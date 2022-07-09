@@ -14,7 +14,7 @@ categories: projects
 <!-- ![image tooltip here](/images/working_vertical.jpg) -->
 <p align="center">
 <img src="/images/working_vertical.jpg" alt="drawing" width="350" style="center"/><br>
-<i>Finished Vertical Magic Mirror</i>
+<i>Finished Vertical Magic Mirror - more photos at the bottom</i>
 </p>
 
 There’s something futuristic and magical about the way the picture displays through the mirrored surface. It’s a calendar, clock, meteorologist, news reporter, DJ, and mirror all at the same time. 
@@ -118,15 +118,15 @@ In summary, now our home has a new piece of furniture with a touch of techiness.
 
 ### More Photos
 <p align="center">
-<img src="/images/display_off.jpg" alt="drawing" width="350" style="center"/><br>
+<img src="/images/display_off.jpg" alt="drawing" width="450" style="center"/><br>
 <i>Display off</i>
 </p>
 <p align="center">
-<img src="/images/full shot.jpg" alt="drawing" width="350" style="center"/><br>
+<img src="/images/full shot.jpg" alt="drawing" width="450" style="center"/><br>
 <i>Display on</i>
 </p>
 <p align="center">
-<img src="/images/with_spotify.jpg" alt="drawing" width="350" style="center"/><br>
+<img src="/images/with_spotify.jpg" alt="drawing" width="450" style="center"/><br>
 <i>With Spotify Plugin</i>
 </p>
 
