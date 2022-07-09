@@ -14,6 +14,7 @@ categories: projects
 <!-- ![image tooltip here](/images/working_vertical.jpg) -->
 <p align="center">
 <img src="/images/working_vertical.jpg" alt="drawing" width="350" style="center"/>
+<i>Finished Vertical Magic Mirror</i>
 </p>
 
 There’s something futuristic and magical about the way the picture displays through the mirrored surface. It’s a calendar, clock, meteorologist, news reporter, DJ, and mirror all at the same time. 
