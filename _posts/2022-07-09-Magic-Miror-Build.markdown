@@ -116,6 +116,20 @@ This project was a fun build that incorporated woodworking, hardware, and softwa
 
 In summary, now our home has a new piece of furniture with a touch of techiness. In the future, I plan on going into more detail on some of the raspberry pi configurations and setup…perhaps next weekend?
 
+### More Photos
+<p align="center">
+<img src="/images/display_off.jpg" alt="drawing" width="350" style="center"/><br>
+<i>Display off</i>
+</p>
+<p align="center">
+<img src="/images/full shot.jpg" alt="drawing" width="350" style="center"/><br>
+<i>Display on</i>
+</p>
+<p align="center">
+<img src="/images/with_spotify.jpg" alt="drawing" width="350" style="center"/><br>
+<i>With Spotify Plugin</i>
+</p>
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
