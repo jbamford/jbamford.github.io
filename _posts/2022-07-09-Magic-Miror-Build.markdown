@@ -13,7 +13,7 @@ categories: projects
 
 <!-- ![image tooltip here](/images/working_vertical.jpg) -->
 <p align="center">
-<img src="/images/working_vertical.jpg" alt="drawing" width="350" style="center"/>
+<img src="/images/working_vertical.jpg" alt="drawing" width="350" style="center"/><br>
 <i>Finished Vertical Magic Mirror</i>
 </p>
 
