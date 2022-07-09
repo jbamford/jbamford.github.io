@@ -26,7 +26,7 @@ I’ve always wanted to build a magic mirror ever since the GitHub library was p
 
 #### Frame
 
-Originally I planned to build the outside part of the frame using 2x4s and then mount trim modeling on the top edge to create an oriental frame appearance. I ended up settling with 1x3 furring strips instead of the trim molding(trim is kinda expensive and figured i could always upgrade). All of the joins were created using pocket holes. This created a great look on the frame since no screws were visible once it was fully assembled. Click here to see the CAD model of the frame. As well as some pictures of the build process. A special thanks to my brother-in-law for helping/letting me use his tools. 
+Originally I planned to build the outside part of the frame using 2x4s and then mount trim molding on the top edge to create an oriental frame appearance. I ended up settling with 1x3 furring strips instead of the trim molding(trim is kinda expensive and figured i could always upgrade). All of the joints were created using pocket holes. This created a great look on the frame since no screws were visible once it was fully assembled. Click here to see the CAD model of the frame. A special thanks to my brother-in-law for helping/letting me use his tools. 
 
 
 <p align="center">
@@ -35,7 +35,7 @@ Originally I planned to build the outside part of the frame using 2x4s and then 
 </p>
 <p align="center">
 <img src="/images/pocket screws.jpg" alt="drawing" width="350" style="center"/><br>
-<i>Close up shot of the pocket screws</i>
+<i>Close up shot of the pocket screws. We used pocket screws on the top 1x3's and the side 2x4's</i>
 </p>
 <p align="center">
 <img src="/images/glue frame top to walls.jpg" alt="drawing" width="350" style="center"/><br>
@@ -53,15 +53,19 @@ The [TV](https://www.bhphotovideo.com/c/product/823549-REG/Sony_KDL_55NX720E_KDL
 
 ### The Build
 
-Once the frame was sanded and coated with a stain, put the frame facedown on the floor. Then I dropped in the mirror. From there I used sticky foam floor protectors on the edge of the wooden frame. I figured since the TV’s frame would be resting on the wood, I wanted to add some extra cushion so the TV’s metal/plastic frame wouldn't get damaged from any pressure points. After adding the extra cushion, I placed the TV inside the facedown frame on top of the glass. I knew that the Magic Mirror would be leaning backward against something, so in order to keep everything inside the frame, I used L brackets around the TV to hold everything inside. 
+Once the frame was sanded and coated with a stain, put the frame facedown on the floor. Then, I dropped in the mirror. Once the mirror was in place, I used sticky foam floor protectors on the edge of the wooden frame. I figured since the TV’s frame would be resting on the wood, I wanted to add some extra cushion so the TV’s metal/plastic frame wouldn't get damaged from any pressure points. After adding the extra cushion, I placed the TV inside the facedown frame on top of the glass. I knew that the Magic Mirror would be leaning backward against something, so in order to keep everything inside the frame, I used L brackets around the TV to hold everything inside. 
 <p align="center">
 <img src="/images/sandwich before lbrackets.jpg" alt="drawing" width="350" style="center"/><br>
 <i>Mirror and TV Sandwich</i>
 </p>
+<p align="center">
+<img src="/images/lbrackets.jpg" alt="drawing" width="350" style="center"/><br>
+<i>L brackets. I used 8 distributed along the frame</i>
+</p>
 
 ### The Programming
 
-A bulk of the time energy went into getting the raspberry pi configuration to run Magic Mirror properly
+The bulk of my time energy went into getting the raspberry pi configuration to run Magic Mirror libary properly. This included:
 
 -Setting up SSH
 
@@ -89,7 +93,7 @@ A bulk of the time energy went into getting the raspberry pi configuration to ru
 
 -Turning the Magic Mirror display vertical 
 
-After rangling with the CSS for a few hours this ended up working for. I added this code to the custom.css file
+After rangling with the CSS for a few hours this ended up working for me. I added this code to the custom.css file
 {% highlight css %}
  body {
 	margin: 10;
@@ -104,7 +108,7 @@ After rangling with the CSS for a few hours this ended up working for. I added t
  }
  {% endhighlight %}
 
-Since my frame border extends into the TV the scale transformation helps keep the picture centered within the visible area of the frame. 
+Since my frame border extends into the TV the scale transformation(scale(.9) helps keep the picture centered within the visible area of the frame. 
 
 ### Summary
 This project was a fun build that incorporated woodworking, hardware, and software. Seeing the magic mirror in person you can really appreciate the size of the completed build(almost 5 feet tall). Additionally, the pictures in this post do not do the quality of the mirrored surface and digital display justice. Both look really sharp! 
