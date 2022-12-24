@@ -6,7 +6,7 @@ categories: projects
 ---
 
 
-## Magic Mirror (pt1)
+## Build overview of the popular modular smart mirror platform(MagicMirror).
 
 
 ### Motivation 

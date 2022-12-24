@@ -6,7 +6,7 @@ categories: projects
 ---
 
 
-## A Second Brain
+## A brief introduction to my personal & work related note taking routine.
 
 <p align="center">
 <img src="/images/knowledge-data.png" alt="drawing" width="350" style="center"/><br>
