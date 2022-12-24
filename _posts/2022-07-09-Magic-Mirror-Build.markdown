@@ -19,7 +19,7 @@ categories: projects
 
 There’s something futuristic and magical about the way the picture displays through the mirrored surface. It’s a calendar, clock, meteorologist, news reporter, DJ, and mirror all at the same time. 
 
-I’ve always wanted to build a magic mirror ever since the GitHub library was published back in 2016. Then in 2022, a neighbor was throwing out a working 55” flatscreen TV. As the TV was one of the larger costs associated with building a Magic Mirror, this lucky break was the start magic mirror project. Additionally, our company [Goldfish Ads](https://goldfishads.com) is starting to explore how Magic Mirrors might be deployed as DOOH screens.  
+I’ve always wanted to build a magic mirror ever since the GitHub library was published back in 2016. Then in 2022, a neighbor was throwing out a working 55” flatscreen TV. As the TV was one of the larger costs associated with building a Magic Mirror, this lucky break was the start of the magic mirror project. Additionally, our company [Goldfish Ads](https://goldfishads.com) is starting to explore how Magic Mirrors might be deployed as DOOH screens.  
 
 
 
