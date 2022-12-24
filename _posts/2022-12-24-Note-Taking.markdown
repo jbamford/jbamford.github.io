@@ -15,9 +15,9 @@ categories: projects
 297 Linked Edges across 927 Notes</i>
 </p>
 
-Jan 1, 2022, represents two and a half full years of using various markdown note-taking techniques in an effort to categorize and store both personal and work-related information. My note-taking routine went through various iterations. From Mac’s Note Pad, Evernote, Obsidian, Foam(vscode plugin), and Dendron(vscode plugin). 
+For two and a half years, I have been using various markdown note-taking techniques to categorize and save my personal and work-related information. My approach to note-taking has evolved over time, from Mac's Note Pad, to Evernote, to Obsidian, to the VSCode plugins Foam and [Dendron](https://www.dendron.so/). As of the end of the year 2022 I have settled on Dendron.
 
-A benefit of local storage text-based note-taking is that all the data is transferable between different note-taking applications. All of the “note” information is stored in basic text in a file on my computer. The various different note-taking software packages read these files(usually with their own custom decorators) and serve up your notes in a fancy (or not so fancy) user interface. 
+In general, the benefit of local storage text-based note-taking is that all the data is transferable between different note-taking applications. All of the “note” information is stored in basic text in a file on my computer. The various different note-taking software packages read these files(usually with their own custom decorators) and serve up your notes in a fancy (or not so fancy) user interface. 
 
 Over the two and a half years my goals have been to:
 * Quickly make a new note about topics and properly categorize them
@@ -25,7 +25,7 @@ Over the two and a half years my goals have been to:
 * Have notes for work-related meetings (a mini CRM)
 * Keep track of TODOs
 
-In 2022 I started using [Dendron.io](https://www.dendron.so/), and this has been my favorite application so far! Prior I was using Foam, but have found that Dendron takes ease of use, customization, and accessibility up another level. 
+In 2022 I started using [Dendron.io](https://www.dendron.so/), and this has been my favorite application so far! Prior I was using Foam, but have found that Dendron takes ease of use, customization, and accessibility up to another level. 
 
 ### Note-Taking Structure: 
 
