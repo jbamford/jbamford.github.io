@@ -15,7 +15,7 @@ categories: projects
 297 Linked Edges across 927 Notes</i>
 </p>
 
-For two and a half years, I have been using various markdown note-taking techniques to categorize and save my personal and work-related information. My approach to note-taking has evolved over time, from Mac's Note Pad, to Evernote, to Obsidian, to the VSCode plugins Foam and [Dendron](https://www.dendron.so/). As of the end of the year 2022 I have settled on Dendron.
+For two and a half years, I have been using various markdown note-taking techniques to categorize and save my personal and work-related information. My approach to note-taking has evolved over time, from Mac's Note Pad, to Evernote, to Obsidian, to the VSCode plugins Foam and [Dendron](https://www.dendron.so/). As of the end of the year 2022, I have settled on Dendron.
 
 In general, the benefit of local storage text-based note-taking is that all the data is transferable between different note-taking applications. All of the “note” information is stored in basic text in a file on my computer. The various different note-taking software packages read these files(usually with their own custom decorators) and serve up your notes in a fancy (or not so fancy) user interface. 
 
@@ -38,13 +38,13 @@ Real Example: journal.2022.12.22.md(its just one file at the top level).
 Also, one of the best parts of a Roam Research/Zettelkasten note-taking system is you can link to other notes from a note. This creates a web of interlining information building up to your “Second Brain”. 
 
 ### Routine
-Every day I run a custom python script that will pull in today’s event from my Google Calander(more on this another day). 
+Every day I run a custom python script that will pull in today’s event from my Google Calender(more on this another day). 
 
 This script creates:
 * One daily Journal File(with link references to the meeting files)
 * Meeting files for each event in the day
 
-An example journal Note journal.2022.12.22.md might constrain:
+An example journal Note journal.2022.12.22.md might contain:
 
 <p align="center">
 <img src="/images/general-journal-note.png" alt="drawing" width="350" style="center"/><br>
