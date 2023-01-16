@@ -38,7 +38,7 @@ Real Example: journal.2022.12.22.md(its just one file at the top level).
 Also, one of the best parts of a Roam Research/Zettelkasten note-taking system is you can link to other notes from a note. This creates a web of interlining information building up to your “Second Brain”. 
 
 ### Routine
-Every day I run a custom python script that will pull in today’s event from my Google Calender(more on this another day). 
+Every day I run a custom python script that will pull in today’s event from my Google Calender(more on this another day).([another day came](https://jbamford.github.io/Note-Taking-Script/)) 
 
 This script creates:
 * One daily Journal File(with link references to the meeting files)
