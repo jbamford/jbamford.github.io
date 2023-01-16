@@ -22,15 +22,15 @@ john[@example.com](mailto:jason@example.com), smith@example.com
 
 ## Goals
 
-&lt;!-- Main objectives of the meeting -->
+<!-- Main objectives of the meeting -->
 
 ## Agenda
 
-&lt;!-- Agenda to be covered in the meeting -->
+<!-- Agenda to be covered in the meeting -->
 
 ## Minutes
 
-&lt;!-- Notes of discussion occurring during the meeting -->
+<!-- Notes of discussion occurring during the meeting -->
 
 ## Action Items
 
