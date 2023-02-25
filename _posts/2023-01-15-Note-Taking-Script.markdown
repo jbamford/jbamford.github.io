@@ -8,7 +8,7 @@ categories: projects
 
 ## Automating My Meeting Notes with Google Calender
 
-Each day I run a script([code here](https://github.com/jbamford/google-calander-dendron)) that fetches the events on my google calendar. For each event, the script creates a meeting note template that I can fill out during the meeting. In addition, the script creates one daily journal note that contains a link to each of the meeting notes. 
+Each day I run a script ([code here](https://github.com/jbamford/google-calander-dendron)) that fetches the events on my google calendar. For each event, the script creates a meeting note template that I can fill out during the meeting. In addition, the script creates one daily journal note that contains a link to each of the meeting notes. 
 
 Each meeting note has the template:
 
