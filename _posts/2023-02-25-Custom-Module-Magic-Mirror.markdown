@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MagicMirror Custom Module (MMM-PenPlotter)"
+title:  "MagicMirror Custom Module"
 date:   2023-02-25 12:31:56 -0400
 categories: projects
 ---
