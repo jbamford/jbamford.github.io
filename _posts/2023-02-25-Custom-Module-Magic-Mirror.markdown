@@ -16,7 +16,7 @@ Fortunately, MagicMirror offers the ability to build new modules Docs. To achiev
 
 To start, I modified https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow package to start as the base of my project.
 
-The library accepts a folder of images and rotates through them for a preset amount of time. 
+The library accepts a folder of images and rotates through them for a preset amount of time.  
 
 In general, the MMM-PenPlotter module is designed to display SVG animations. The SVG files are animated using CSS. The animation progressively draws a white line on a black background until it completes the entire SVG path. This creates the illusion that the line is magically rendered on the mirrored glass.
 
