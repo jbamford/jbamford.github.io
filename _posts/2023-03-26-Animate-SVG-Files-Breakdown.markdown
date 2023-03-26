@@ -8,8 +8,8 @@ categories: projects
 ## SVG’s With One Path Attribute 
 
 1. Download an SVG File 
-    1. I like to use this website however there are many out there. 
-        1. [https://sandify.org/](https://sandify.org/) (most of the svgs in the [repository](https://github.com/jbamford/MMM-PenPlotter/tree/main/example_svg) came from here)
+    1. I like to use these websites, however there are many out there. 
+        1. [https://sandify.org/](https://sandify.org/) (most of the SVG's in the [repository](https://github.com/jbamford/MMM-PenPlotter/tree/main/example_svg) came from here)
         2. [https://drawingbots.net/knowledge/tools](https://drawingbots.net/knowledge/tools) a nice collections of tools
     2. Be sure to download the file as an SVG
 
@@ -29,9 +29,10 @@ categories: projects
    <p align="center">
 <img src="/images/path-atts.png" alt="drawing" width="450" style="center"/><br>
 </p>
-    5. Add in the Style Tag to force the animation magic 
-        1. You want to add the animation in the style tag in order to avoid having to use any javascript
-         
+3. Add in the Style Tag to force the animation magic 
+      1. You want to add the animation in the style tag in order to avoid having to use any javascript
+
+
 {% highlight css %}
  <style>
         path {
