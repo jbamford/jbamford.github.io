@@ -27,7 +27,7 @@ categories: projects
         5. pathLength="1"
    
    <p align="center">
-<img src="/images/path-atts.png" alt="drawing" width="350" style="center"/><br>
+<img src="/images/path-atts.png" alt="drawing" width="600" style="center"/><br>
 </p>
     5. Add in the Style Tag to force the animation magic 
         1. You want to add the animation in the style tag in order to avoid having to use any javascript
@@ -68,12 +68,12 @@ categories: projects
 
 ## SVG’s With Multiple Path Attributes 
 
-But wait, Jason, the SVG I downloaded has multiple paths in it… See [a video here](https://youtu.be/Nz0SzKKdd-A) where I walk through the process of animating an SVG of a map that has many path elements. The final results look like the city is being drawn. 
+But wait, Jason, the SVG I downloaded has multiple paths in it… See [a video here](https://youtu.be/Nz0SzKKdd-A) where I walk through the process of animating an SVG of a map that has many path elements. The final results look like the city is being drawn(see below). 
 
-1. Update all the Path attributes to have a pathLength="1"
-2. Note how many path attributes there are in the file
+1. Update all the Path attributes to have a pathLength="1". I use ctr+f replace
+2. Note how many path attributes there are in the file for step 3
 3. Input the number of paths in the file into the [generate_style.py](https://gist.github.com/jbamford/964e6e3ad1dd8afd17507e2ce70eff94) file
-4. Save the output from generate_style.py and paste it into a new &lt;style> paste_here &lt;/style>
+4. Save the output from generate_style.py and paste it into a new style tag
 5. Check that the Fill is either none or black, and that the stroke is white. 
 
 <p align="center">
