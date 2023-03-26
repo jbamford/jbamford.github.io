@@ -14,7 +14,7 @@ categories: projects
     2. Be sure to download the file as an SVG
 
 <p align="center">
-<img src="/images/export-from-tool.png" alt="drawing" width="350" style="center"/><br>
+<img src="/images/export-from-tool.png" alt="drawing" width="450" style="center"/><br>
 </p>   
 
 2. Open the SVG in a text editor 
@@ -27,7 +27,7 @@ categories: projects
         5. pathLength="1"
    
    <p align="center">
-<img src="/images/path-atts.png" alt="drawing" width="600" style="center"/><br>
+<img src="/images/path-atts.png" alt="drawing" width="450" style="center"/><br>
 </p>
     5. Add in the Style Tag to force the animation magic 
         1. You want to add the animation in the style tag in order to avoid having to use any javascript
@@ -61,7 +61,7 @@ categories: projects
      
  {% endhighlight %}
    <p align="center">
-<img src="/images/style-info.png" alt="drawing" width="350" style="center"/><br>
+<img src="/images/style-info.png" alt="drawing" width="450" style="center"/><br>
 </p>     
      
 1. Save your edits and your newly minted SVG to your mirror’s SVG folder
@@ -77,5 +77,5 @@ But wait, Jason, the SVG I downloaded has multiple paths in it… See [a video h
 5. Check that the Fill is either none or black, and that the stroke is white. 
 
 <p align="center">
-<img src="/images/Scranton.svg" alt="drawing" width="350" style="center"/><br>
+<img src="/images/Scranton.svg" alt="drawing" width="600" style="center"/><br>
 </p>   
