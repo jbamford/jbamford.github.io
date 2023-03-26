@@ -75,3 +75,7 @@ But wait, Jason, the SVG I downloaded has multiple paths in it… See [a video h
 3. Input the number of paths in the file into the [generate_style.py](https://gist.github.com/jbamford/964e6e3ad1dd8afd17507e2ce70eff94) file
 4. Save the output from generate_style.py and paste it into a new &lt;style> paste_here &lt;/style>
 5. Check that the Fill is either none or black, and that the stroke is white. 
+
+<p align="center">
+<img src="/images/Scranton.svg" alt="drawing" width="350" style="center"/><br>
+</p>   
